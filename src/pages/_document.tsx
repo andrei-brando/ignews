@@ -13,6 +13,8 @@ export default class MyDocument extends NextDocument {
             rel="stylesheet"
           />
 
+          <link rel="shortcut icon" href="/favicon.png" type="image/png" />
+
           <title>ig.news</title>
         </Head>
         <body>
